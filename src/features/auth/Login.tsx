@@ -30,7 +30,7 @@ const LogIn = () => {
   const isMobile = useMediaQuery(defaultTheme.breakpoints.down("sm"));
   const navigate = useNavigate();
 
-  document.title = GenerateTabTitle("Iniciar Sesión");
+  document.title = GenerateTabTitle("Iniciar Sesión 11111");
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
