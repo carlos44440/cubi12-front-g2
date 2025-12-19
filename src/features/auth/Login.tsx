@@ -112,7 +112,7 @@ const LogIn = () => {
                 className="font-title"
                 sx={{ marginBottom: 1, mt: 3, fontSize: 30 }}
               >
-                INICIAR SESIÓN
+                INICIAR SESIÓN 1111
               </Typography>
               <Grid container spacing={1.1} justifyContent="flex-end">
                 <Grid item xs={12}>
